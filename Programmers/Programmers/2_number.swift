@@ -1,8 +1,8 @@
 //
-//  main.swift
-//  CodingTest_2_Number
+//  2_number.swift
+//  Programmers
 //
-//  Created by 권운기 on 10/17/23.
+//  Created by 권운기 on 10/18/23.
 //
 
 import Foundation
@@ -19,3 +19,4 @@ func solution(_ n:Int) -> Int {
     }
     return num
 }
+

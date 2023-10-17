@@ -1,8 +1,8 @@
 //
-//  main.swift
-//  CodingTest_1_array
+//  1_array.swift
+//  Programmers
 //
-//  Created by 권운기 on 10/17/23.
+//  Created by 권운기 on 10/18/23.
 //
 
 import Foundation
